@@ -12,4 +12,5 @@
 
   ![](https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif)
   ![](https://media.tenor.com/TQrQ6tmnlbMAAAAM/happy-programmer.gif)
+  
   clique aqui para acessar o [Alura](https://www.alura.com.br).
