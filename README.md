@@ -10,3 +10,4 @@
 - 🖥️ Estou trabalhando em um projeto de HTML
   
   ![](https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif)
+  ![](https://media.tenor.com/TQrQ6tmnlbMAAAAM/happy-programmer.gif)
