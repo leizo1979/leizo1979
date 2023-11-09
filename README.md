@@ -8,8 +8,7 @@
 - 🧑 Aluno do curso Manuteção e Suporte em Informática.
 - 📧 Email para contato: ozielpereira806@gmail.com
 - 🖥️ Estou trabalhando em um projeto de HTML
+- 
   clique aqui para acessar o [Alura](https://www.alura.com.br).
-  
   ![](https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif)
-  
   ![](https://media.tenor.com/TQrQ6tmnlbMAAAAM/happy-programmer.gif)
