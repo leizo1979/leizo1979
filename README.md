@@ -9,4 +9,4 @@
 - 📧 Email para contato: ozielpereira806@gmail.com
 - 🖥️ Estou trabalhando em um projeto de HTML
   
-  ![](https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif)
+  ![](https://media.tenor.com/OTvZN2KpSZYAAAAM/weekend-bugs.gif)
