@@ -9,4 +9,4 @@
 - 📧 Email para contato: ozielpereira806@gmail.com
 - 🖥️ Estou trabalhando em um projeto de HTML
   
-  ![](https://media.tenor.com/OTvZN2KpSZYAAAAM/weekend-bugs.gif)
+  ![](https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif)
